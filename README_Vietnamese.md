@@ -9,9 +9,9 @@ ViMedical Disease là bộ dữ liệu bao gồm một tập hợp v�
 
 Bộ dữ liệu hiện đã có trên các nền tảng khác như:
 
-- <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" title="" alt="" width="20">  <a href="url" style="font-size:1.25em;">**Kaggle**</a>
+- <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" title="" alt="" width="20">  [**<u>Kaggle</u>**]()
 
-- <img title="" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="" width="25"> <a href="url" style="font-size:1.25em;">**Huggingface**</a>
+- <img title="" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="" width="25"> [**<u>Huggingface</u>**]()
 
 ## ⚠️Lưu ý:
 
@@ -35,7 +35,7 @@ Bộ dữ liệu có 2 cột:
 
 - `Question`:  Câu hỏi và mô tả triệu chứng của bệnh
 
-<p style="font-size:1.15em">Ví dụ về dữ liệu:</p>
+##### Ví dụ về dữ liệu:
 
 | Disease             | Question                                                                                    |
 |:------------------- |:------------------------------------------------------------------------------------------- |
