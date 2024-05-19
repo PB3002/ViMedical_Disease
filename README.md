@@ -1,2 +1,13 @@
-# ViMedical_Disease
-This is new 2
+<h1 align = center> 🗃 ViMedical Disease
+
+## 
+
+## Data construction process:
+
+
+
+
+
+## Dataset information:
+
+Bộ dữ liệu 
