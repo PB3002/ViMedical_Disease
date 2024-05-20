@@ -1,7 +1,7 @@
 <h1 align = center> 🗃 ViMedical Disease</h1>
 <p align = center> Authors: Phuc Nguyen, Dao Thong
 
-**Vietnamese cap: here**
+[**Vietnamese cap: here**](https://github.com/PB3002/ViMedical_Disease/tree/main/README_Vietnamese.md)
 
 ## Overview:
 
@@ -44,7 +44,7 @@ Bộ dữ liệu có 2 cột:
 -    Tạo chatbot
 -    Hỗ trợ người dùng
 
-## 📢 Bản quyền:
+## 📢 Copyright:
 
 Copyright © 2024 PB. All rights reserved.
 
