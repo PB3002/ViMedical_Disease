@@ -1,5 +1,11 @@
-<h1 align = center> 🗃 ViMedical Disease</h1>
-<p align = center> Tác giả: Phuc Nguyen, Dao Thong
+<div align = center>
+ <h1 > 🗃 ViMedical Disease</h1>
+ 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPB3002%2FViMedical_Disease&label=View&countColor=%230475b6&style=plastic&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FPB3002%2FViMedical_Disease) ![Contributor](https://img.shields.io/badge/contributors-2-brightgreen) ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-orange)
+
+<p> Ngày tạo: 2024-04-05 <br>Tác giả: Phuc Nguyen, Dao Thong
+</div>
+
 
 [**English cap: here**](https://github.com/PB3002/ViMedical_Disease/tree/main)
 
@@ -9,9 +15,9 @@ ViMedical Disease là bộ dữ liệu bao gồm một tập hợp v�
 
 Bộ dữ liệu hiện đã có trên các nền tảng khác như:
 
-- <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" title="" alt="" width="20">  [**<u>Kaggle</u>**]()
+- <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" title="" alt="" width="20">  [**<u>Kaggle</u>**](https://www.kaggle.com/datasets/pb30025030/vimedical-disease/data)
 
-- <img title="" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="" width="25"> [**<u>Huggingface</u>**]()
+- <img title="" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="" width="25"> [**<u>Huggingface</u>**](https://huggingface.co/datasets/PB3002/ViMedical_Disease)
 
 ## ⚠️Lưu ý:
 
@@ -58,7 +64,7 @@ Chúng tôi luôn hoan nghênh mọi ý tưởng và đóng góp đ�
 
 Bản quyền © 2024 PB. Bảo lưu mọi quyền.
 
-Bộ dữ liệu này được cấp phép theo giấy phép Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
+Bộ dữ liệu này được cấp phép theo giấy phép Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
 **Bằng việc tải xuống bộ dữ liệu, người dùng đồng ý:**
 
