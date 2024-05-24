@@ -27,13 +27,23 @@ Bộ dữ liệu hiện đã có trên các nền tảng khác như:
 
 ## Quá trình xây dựng bộ dữ liệu:
 
-#Quá trình xây dựng bộ dữ liệu
+- Bộ dữ liệu ViMedical_Diseases được dựa trên một bộ dữ liệu có sẵn từ trước lấy từ cuộc thi Kalapa Bytebattles 2023 tại mục Vietnamese Medical Question Answering.
 
-#Thêm hình ảnh (Lấy trong powerpoint) 
+- Bộ dữ liệu cung cấp hơn 600 bài viết về các loại bệnh, được thu thập từ bệnh viện Tâm Anh
+
+- Từ bộ dữ liệu có sẵn, trích xuất ra được 603 loại bệnh khác nhau và tiến hành tạo 20 câu hỏi về người bệnh đang mắc triệu chứng của căn bệnh đó.
+
+<img src="/image/BoDuLieu.png"/>
 
 ## Cấu trúc:
 
- #Nói sơ một chút về bộ dữ liệu của mình có cấu trúc như thế nào (Phần câu hỏi có những điểm gì chung)
+- Mỗi câu hỏi sẽ có cấu trúc như sau: "Tôi đang có các triệu chứng như/Tôi đang cảm thấy/Tôi hay/..." + mô tả triệu chứng của bệnh từ bài viết + ". Tôi có thể đang bị bệnh gì?"
+
+- Mỗi câu hỏi sẽ bắt đầu bằng những cụm từ như "Tôi/Tôi đang có các triệu chứng như/Tôi đang cảm thấy/Tôi hay/...".
+
+- Theo sau những cụm từ trên sẽ là các triệu chứng về căn bệnh được lấy từ bài viết.
+
+- Và câu hỏi sẽ luôn được kết thúc với câu hỏi "Tôi có thể đang bị bệnh gì?".
 
 Bộ dữ liệu có 2 cột:
 
