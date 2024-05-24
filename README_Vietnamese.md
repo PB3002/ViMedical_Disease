@@ -33,7 +33,7 @@ Bộ dữ liệu cung cấp hơn 600 bài viết về các loại bệnh, đư�
 
 Từ bộ dữ liệu có sẵn, trích xuất ra được 603 loại bệnh khác nhau và tiến hành tạo 20 câu hỏi về người bệnh đang mắc triệu chứng của căn bệnh đó.
 
-<img src="/image/BoDuLieu.png"/>
+<img src="./asset/image/dataset_progress_vi.png"/>
 
 ## Cấu trúc:
 
