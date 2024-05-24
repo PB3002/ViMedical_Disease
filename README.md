@@ -1,8 +1,8 @@
 <div align = center>
  <h1 > 🗃 ViMedical Disease</h1>
  
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPB3002%2FViMedical_Disease&label=View&countColor=%230475b6&style=plastic&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FPB3002%2FViMedical_Disease) ![Contributor](https://img.shields.io/badge/contributors-2-brightgreen) ![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-orange)
-<p> Authors: Phuc Nguyen, Dao Thong 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPB3002%2FViMedical_Disease&label=View&countColor=%230475b6&style=plastic&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FPB3002%2FViMedical_Disease) ![Contributor](https://img.shields.io/badge/contributors-2-brightgreen) ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-orange)
+<p> Creation date: 2024-04-05 <br>Authors: Phuc Nguyen, Dao Thong 
 </div>
 
 [**Vietnamese cap: here**](https://github.com/PB3002/ViMedical_Disease/tree/main/README_Vietnamese.md)
