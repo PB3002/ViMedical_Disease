@@ -11,7 +11,7 @@
 
 ## Tổng quan:
 
-ViMedical Disease là bộ dữ liệu bao gồm một tập hợp với hơn 12K+ các câu hỏi và triệu chứng cho một số bệnh thường gặp. Bộ dữ liệu này được thiết kế để hỗ trợ việc phân loại triệu chứng bệnh và xác định bệnh lý một cách sơ bộ. Nó chứa thông tin về nhiều loại bệnh phổ biến, bao gồm cả bệnh lý về tim mạch, đường tiêu hóa, thần kinh, da liễu, nội tiết, và nhiều bệnh lý khác. Bộ dữ liệu này có thể được sử dụng cho các mục đích nghiên cứu, phát triển mô hình dự đoán bệnh lý, hoặc cung cấp thông tin cho người dùng về các triệu chứng bệnh thường gặp.
+ViMedical Disease là bộ dữ liệu tiếng Việt bao gồm một tập hợp với hơn 12K+ các câu hỏi và triệu chứng cho một số bệnh thường gặp. Bộ dữ liệu này được thiết kế để hỗ trợ việc phân loại triệu chứng bệnh và xác định bệnh lý một cách sơ bộ. Nó chứa thông tin về nhiều loại bệnh phổ biến, bao gồm cả bệnh lý về tim mạch, đường tiêu hóa, thần kinh, da liễu, nội tiết, và nhiều bệnh lý khác. Bộ dữ liệu này có thể được sử dụng cho các mục đích nghiên cứu, phát triển mô hình dự đoán bệnh lý, hoặc cung cấp thông tin cho người dùng về các triệu chứng bệnh thường gặp.
 
 Bộ dữ liệu hiện đã có trên các nền tảng khác như:
 
