@@ -26,7 +26,7 @@ The dataset is now available on other platforms, including:
 
 ## Data construction process:
 
-The ViMedical_Diseases dataset is based on a pre-existing dataset from the Kalapa Bytebattles 2023 competition in the Vietnamese Medical Question Answering section.
+The ViMedical_Diseases dataset is based on a pre-existing dataset from the Kalapa Bytebattles 2023 competition in the Vietnamese Medical Question Answering section.
 
 The dataset provides over 600 articles on various diseases, collected from Tam Anh Hospital.
 
