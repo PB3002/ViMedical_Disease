@@ -10,7 +10,7 @@
 
 ## Overview:
 
-ViMedical Disease is a dataset that encompasses a collection of over 12K+ questions and symptoms for common diseases. This dataset is designed to aid in the classification of disease symptoms and the preliminary identification of medical conditions. It contains information about numerous prevalent diseases, including cardiovascular, gastrointestinal, neurological, dermatological, endocrine, and other conditions. This dataset can be used for research purposes, developing predictive models for diseases, or providing users with information on common disease symptoms.
+ViMedical Disease is a Vietnamese dataset that encompasses a collection of over 12K+ questions and symptoms for common diseases. This dataset is designed to aid in the classification of disease symptoms and the preliminary identification of medical conditions. It contains information about numerous prevalent diseases, including cardiovascular, gastrointestinal, neurological, dermatological, endocrine, and other conditions. This dataset can be used for research purposes, developing predictive models for diseases, or providing users with information on common disease symptoms.
 
 The dataset is now available on other platforms, including:
 
